@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ef2c3c5-083f-48c6-8c70-5d03db94ec9b": {
+      "ProjectGuid": "2ef2c3c5-083f-48c6-8c70-5d03db94ec9b",
+      "DisplayName": "WinService",
+      "ColorIndex": 0
+    },
+    "8d65879b-9b51-453d-b9c9-c26cc73e9a85": {
+      "ProjectGuid": "8d65879b-9b51-453d-b9c9-c26cc73e9a85",
+      "DisplayName": "WinFormsApp",
+      "ColorIndex": 1
+    },
+    "3d644f89-4d7d-463a-a52d-0b9568dac54c": {
+      "ProjectGuid": "3d644f89-4d7d-463a-a52d-0b9568dac54c",
+      "DisplayName": "WCFService",
+      "ColorIndex": 2
+    },
+    "f2da7b0c-0a48-49c0-8a06-123559125711": {
+      "ProjectGuid": "f2da7b0c-0a48-49c0-8a06-123559125711",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8d7001fd-7f19-4886-a1f6-028c3e749789": {
+      "ProjectGuid": "8d7001fd-7f19-4886-a1f6-028c3e749789",
+      "DisplayName": "WinService",
+      "ColorIndex": 4
+    },
+    "4706b8ca-2efe-40f3-882b-d933a055f7d3": {
+      "ProjectGuid": "4706b8ca-2efe-40f3-882b-d933a055f7d3",
+      "DisplayName": "WinService",
+      "ColorIndex": 5
+    },
+    "1783f51e-091c-4933-8160-c5ae011a4b43": {
+      "ProjectGuid": "1783f51e-091c-4933-8160-c5ae011a4b43",
+      "DisplayName": "WCFService",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

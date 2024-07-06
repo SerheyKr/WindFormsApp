@@ -19,12 +19,12 @@ namespace WinFormsApp.Services
 			client = channel;
 		}
 
-		public void AddValue(User value)
+		public Guid AddValue(User value)
 		{
-			client.CreateChannel().AddValue(value);
+			return client.CreateChannel().AddValue(value);
 		}
 
-		public User? GetValue(long key)
+		public User? GetValue(Guid key)
 		{
 			return client.CreateChannel().GetValue(key);
 		}
@@ -39,9 +39,9 @@ namespace WinFormsApp.Services
 			client.CreateChannel().RemoveValue(value);
 		}
 
-		public void UpdateValue(User value)
+		public User UpdateValue(User value)
 		{
-			client.CreateChannel().RemoveValue(value);
+			return client.CreateChannel().UpdateValue(value);
 		}
 	}
 }

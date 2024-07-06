@@ -10,7 +10,7 @@ namespace WCFService.Models
 	[DataContract]
 	public class User
 	{
-		private long Id;
+		private Guid Id;
 		private string firstName;
 		private string surname;
 		private string lastName;
@@ -21,7 +21,7 @@ namespace WCFService.Models
 		private DateTime lastModifiedDate; 
 		
 		[DataMember]
-		public long ID
+		public Guid ID
 		{
 			get { return Id; }
 			set { Id = value; }

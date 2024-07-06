@@ -54,8 +54,6 @@
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             dataGridView1.CellEndEdit += dataGridView1_CellEndEdit;
             dataGridView1.CellFormatting += dataGridView1_CellFormatting;
-            dataGridView1.DefaultValuesNeeded += dataGridView1_DefaultValuesNeeded;
-            dataGridView1.UserAddedRow += dataGridView1_UserAddedRow;
             dataGridView1.UserDeletedRow += dataGridView1_UserDeletedRow;
             // 
             // FirstName

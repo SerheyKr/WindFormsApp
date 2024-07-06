@@ -12,13 +12,13 @@ namespace WCFService.Interfaces
     public interface IUserService
     {
         [OperationContract]
-        User GetValue(long key);
+        User GetValue(Guid key);
         [OperationContract]
         List<User> GetValues();
         [OperationContract]
-        void AddValue(User value);
+        Guid AddValue(User value);
         [OperationContract]
-        void UpdateValue(User value);
+        User UpdateValue(User value);
         [OperationContract]
         void RemoveValue(User value);
     }
