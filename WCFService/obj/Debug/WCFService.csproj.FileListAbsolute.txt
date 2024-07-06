@@ -1,0 +1,7 @@
+D:\WinFormsApp\WCFService\obj\Debug\WCFService.csproj.AssemblyReference.cache
+D:\WinFormsApp\WCFService\obj\Debug\WCFService.csproj.CoreCompileInputs.cache
+D:\WinFormsApp\WCFService\bin\WCFService.dll.config
+D:\WinFormsApp\WCFService\bin\WCFService.dll
+D:\WinFormsApp\WCFService\bin\WCFService.pdb
+D:\WinFormsApp\WCFService\obj\Debug\WCFService.dll
+D:\WinFormsApp\WCFService\obj\Debug\WCFService.pdb
