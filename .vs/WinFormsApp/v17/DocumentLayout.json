@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WinFormsApp\\",
+  "WorkspaceRootPath": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|D:\\WinFormsApp\\wcfservice\\services\\userservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|solutionrelative:wcfservice\\services\\userservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|d:\\winformsapp\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|C:\\Users\\serge\\source\\repos\\WinFormsApp\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|d:\\winformsapp\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|C:\\Users\\serge\\source\\repos\\WinFormsApp\\wcfservice\\services\\userservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|solutionrelative:wcfservice\\services\\userservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\serge\\source\\repos\\winformsapp\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|D:\\WinFormsApp\\wcfservice\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|solutionrelative:wcfservice\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|D:\\WinFormsApp\\winformsapp\\services\\userserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\serge\\source\\repos\\winformsapp\\winformsapp\\services\\userserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\services\\userserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|D:\\WinFormsApp\\wcfservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|C:\\Users\\serge\\source\\repos\\WinFormsApp\\wcfservice\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|solutionrelative:wcfservice\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|C:\\Users\\serge\\source\\repos\\WinFormsApp\\wcfservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|solutionrelative:wcfservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|D:\\WinFormsApp\\winformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|C:\\Users\\serge\\source\\repos\\WinFormsApp\\winformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|D:\\WinFormsApp\\winformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|C:\\Users\\serge\\source\\repos\\WinFormsApp\\winformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|D:\\WinFormsApp\\wcfservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|C:\\Users\\serge\\source\\repos\\WinFormsApp\\wcfservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|solutionrelative:wcfservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|D:\\WinFormsApp\\winformsapp\\columns\\phonenumbercolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|C:\\Users\\serge\\source\\repos\\WinFormsApp\\winformsapp\\columns\\phonenumbercolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D65879B-9B51-453D-B9C9-C26CC73E9A85}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\columns\\phonenumbercolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|D:\\WinFormsApp\\wcfservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|C:\\Users\\serge\\source\\repos\\WinFormsApp\\wcfservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1783F51E-091C-4933-8160-C5AE011A4B43}|WCFService\\WCFService.csproj|solutionrelative:wcfservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -54,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\WinFormsApp\\WinFormsApp\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp\\Form1.cs",
-              "ToolTip": "D:\\WinFormsApp\\WinFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Form1.cs",
               "RelativeToolTip": "WinFormsApp\\Form1.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAIA6wDQAAAAKAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAjwDsAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T18:29:04.211Z",
               "IsPinned": true,
@@ -72,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserService.svc.cs",
-              "DocumentMoniker": "D:\\WinFormsApp\\WCFService\\Services\\UserService.svc.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\Services\\UserService.svc.cs",
               "RelativeDocumentMoniker": "WCFService\\Services\\UserService.svc.cs",
-              "ToolTip": "D:\\WinFormsApp\\WCFService\\Services\\UserService.svc.cs",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\Services\\UserService.svc.cs",
               "RelativeToolTip": "WCFService\\Services\\UserService.svc.cs",
               "ViewState": "AQIAAJIAAAAAAAAAAAAAAKkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,11 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "UserServiceClient.cs",
-              "DocumentMoniker": "D:\\WinFormsApp\\WinFormsApp\\Services\\UserServiceClient.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Services\\UserServiceClient.cs",
               "RelativeDocumentMoniker": "WinFormsApp\\Services\\UserServiceClient.cs",
-              "ToolTip": "D:\\WinFormsApp\\WinFormsApp\\Services\\UserServiceClient.cs",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Services\\UserServiceClient.cs",
               "RelativeToolTip": "WinFormsApp\\Services\\UserServiceClient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,61 +100,57 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WinFormsApp\\WinFormsApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Program.cs",
               "RelativeDocumentMoniker": "WinFormsApp\\Program.cs",
-              "ToolTip": "D:\\WinFormsApp\\WinFormsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Program.cs",
               "RelativeToolTip": "WinFormsApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T03:27:25.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T03:27:25.921Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WinFormsApp\\WCFService\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\Program.cs",
               "RelativeDocumentMoniker": "WCFService\\Program.cs",
-              "ToolTip": "D:\\WinFormsApp\\WCFService\\Program.cs",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\Program.cs",
               "RelativeToolTip": "WCFService\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T03:26:57.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T03:26:57.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\WinFormsApp\\WCFService\\Interfaces\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "WCFService\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\WinFormsApp\\WCFService\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\Interfaces\\IUserService.cs",
               "RelativeToolTip": "WCFService\\Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T02:45:35.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T02:45:35.58Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\WinFormsApp\\WCFService\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\Models\\User.cs",
               "RelativeDocumentMoniker": "WCFService\\Models\\User.cs",
-              "ToolTip": "D:\\WinFormsApp\\WCFService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\Models\\User.cs",
               "RelativeToolTip": "WCFService\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T01:39:17.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T01:39:17.389Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "PhoneNumberColumn.cs",
-              "DocumentMoniker": "D:\\WinFormsApp\\WinFormsApp\\Columns\\PhoneNumberColumn.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Columns\\PhoneNumberColumn.cs",
               "RelativeDocumentMoniker": "WinFormsApp\\Columns\\PhoneNumberColumn.cs",
-              "ToolTip": "D:\\WinFormsApp\\WinFormsApp\\Columns\\PhoneNumberColumn.cs",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Columns\\PhoneNumberColumn.cs",
               "RelativeToolTip": "WinFormsApp\\Columns\\PhoneNumberColumn.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,9 +160,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\WinFormsApp\\WinFormsApp\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp\\Form1.Designer.cs",
-              "ToolTip": "D:\\WinFormsApp\\WinFormsApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Form1.Designer.cs",
               "RelativeToolTip": "WinFormsApp\\Form1.Designer.cs",
               "ViewState": "AQIAACYAAAAAAAAAAIAwwDgAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,9 +173,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\WinFormsApp\\WCFService\\Web.config",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\Web.config",
               "RelativeDocumentMoniker": "WCFService\\Web.config",
-              "ToolTip": "D:\\WinFormsApp\\WCFService\\Web.config",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\Web.config",
               "RelativeToolTip": "WCFService\\Web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -196,8 +192,8 @@
       "FloatingWindowState": {
         "Id": "2f12b92e-486e-482a-b269-38048032f33a",
         "Display": 1,
-        "X": 691,
-        "Y": 115,
+        "X": 159,
+        "Y": 174,
         "Width": 1439,
         "Height": 659,
         "WindowState": 0
@@ -211,9 +207,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\WinFormsApp\\WinFormsApp\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp\\Form1.cs",
-              "ToolTip": "D:\\WinFormsApp\\WinFormsApp\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\Form1.cs [Design]",
               "RelativeToolTip": "WinFormsApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T10:16:21.631Z",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eky0B6FUajT0M9iRBNbdVr50OwOrWFGlSOPddRIYCpAXSRVCaPAgqPGLkmYUOj7WoD/4aJV3YZjVlYZmt1s5ig==",
+  "dgSpecHash": "B7pgS1UJZC2Q5gK+bKsXGGnuVszjUBzr9Ocrdml2lGxMAaCtWRZsY8SAbM963gU+IfTYuGg9dQ5vqeAeMd7G7g==",
   "success": true,
-  "projectFilePath": "D:\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+  "projectFilePath": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serge\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.10\\microsoft.extensions.objectpool.5.0.10.nupkg.sha512",

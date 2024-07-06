@@ -59,6 +59,7 @@ namespace WCFService
 				new string(((string)dataGridView1.Rows[e.RowIndex].Cells[dataGridView1.Columns["Phone"].Index].Value).
 				Where(char.IsDigit).Where(x => !char.IsWhiteSpace(x))
 				.ToArray());
+				MessageBox.Show("Phone number must not contain any digits.");
 			}
 		}
 
@@ -86,29 +87,29 @@ namespace WCFService
 			{
 				UpdateUser(rowToUpdate);
 			}
-        }
+		}
 
-        private void AddNewUser(DataGridViewRow lastAddedRow)
-        {
-            var id = service.AddValue(new User()
-            {
-                FirstName = (string)lastAddedRow.Cells[0].Value,
-                Surname = (string)lastAddedRow.Cells[1].Value,
-                LastName = (string)lastAddedRow.Cells[2].Value,
-                DRFO = (string)lastAddedRow.Cells[3].Value,
-                Email = (string)lastAddedRow.Cells[4].Value,
-                PhoneNumber = (string)lastAddedRow.Cells[5].Value,
-            });
+		private void AddNewUser(DataGridViewRow lastAddedRow)
+		{
+			var id = service.AddValue(new User()
+			{
+				FirstName = (string)lastAddedRow.Cells[0].Value,
+				Surname = (string)lastAddedRow.Cells[1].Value,
+				LastName = (string)lastAddedRow.Cells[2].Value,
+				DRFO = (string)lastAddedRow.Cells[3].Value,
+				Email = (string)lastAddedRow.Cells[4].Value,
+				PhoneNumber = (string)lastAddedRow.Cells[5].Value,
+			});
 
 			var user = service.GetValue(id);
 
 
-            lastAddedRow.Cells[6].Value = user.CreationDate.ToString();
-            lastAddedRow.Cells[7].Value = user.LastModifiedDate.ToString();
-            lastAddedRow.Cells[8].Value = id;
-        }
+			lastAddedRow.Cells[6].Value = user.CreationDate.ToString();
+			lastAddedRow.Cells[7].Value = user.LastModifiedDate.ToString();
+			lastAddedRow.Cells[8].Value = id;
+		}
 
-        private void UpdateUser(DataGridViewRow rowToUpdate)
+		private void UpdateUser(DataGridViewRow rowToUpdate)
 		{
 			var user = service.UpdateValue(new User()
 			{

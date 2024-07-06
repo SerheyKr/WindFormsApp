@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj": {}
+    "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj": {}
   },
   "projects": {
-    "D:\\WinFormsApp\\WCFService\\WCFService.csproj": {
+    "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\WCFService.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\WinFormsApp\\WCFService\\WCFService.csproj",
+        "projectUniqueName": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\WCFService.csproj",
         "projectName": "WCFService",
-        "projectPath": "D:\\WinFormsApp\\WCFService\\WCFService.csproj",
+        "projectPath": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\WCFService.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net48": {}
       }
     },
-    "D:\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj": {
+    "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+        "projectUniqueName": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
         "projectName": "WinFormsApp",
-        "projectPath": "D:\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+        "projectPath": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
         "packagesPath": "C:\\Users\\serge\\.nuget\\packages\\",
-        "outputPath": "D:\\WinFormsApp\\WinFormsApp\\obj\\",
+        "outputPath": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WinFormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,8 +48,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows7.0",
             "projectReferences": {
-              "D:\\WinFormsApp\\WCFService\\WCFService.csproj": {
-                "projectPath": "D:\\WinFormsApp\\WCFService\\WCFService.csproj"
+              "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\WCFService.csproj": {
+                "projectPath": "C:\\Users\\serge\\source\\repos\\WinFormsApp\\WCFService\\WCFService.csproj"
               }
             }
           }
